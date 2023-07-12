@@ -1,0 +1,6 @@
+{
+  "name": "Clotho",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fgreek-myth933%2Fimages%2Fc%2Fce%2FClotho.jpg%2Frevision%2Flatest%3Fcb%3D20161219105456&tbnid=GYs_Bxkx2vHkTM&vet=12ahUKEwiblNfnlv7-AhU-M94AHV5iDygQMygEegUIARDxAQ..i&imgrefurl=https%3A%2F%2Fgreek-myth.fandom.com%2Fwiki%2FClotho&docid=GNlva8p1JpyaWM&w=395&h=226&q=Clotho&ved=2ahUKEwiblNfnlv7-AhU-M94AHV5iDygQMygEegUIARDxAQ",
+  "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
+}
